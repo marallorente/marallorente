@@ -2,11 +2,11 @@
 
 ### Junior developer 
 
-### 🐰 Bienvenidos a mi perfil!
+### 🦉 Bienvenidos a mi perfil!
 
 #### Acerca de mi:
 
-En 2020 decidí dejar mi profesión para seguir mi verdadera pasión: la programación. Durante el tiempo en mi propia empresa, la cual se especializaba en ayudar a colegios en la elaboración de menús, tuve que sumergirme en el mundo tecnológico para crear mi propio sitio web y desarrollar algunas aplicaciones que me ayudaran en mi práctica diaria. Aunque al principio todo era muy rudimentario, esta experiencia fue lo que finalmente me impulsó a cambiar de profesión, ya que descubrí que realmente disfrutaba de la programación.
+En 2020 decidí dejar mi profesión para seguir mi verdadera pasión: la programación. Durante el tiempo en mi propia empresa, la cual se especializaba en la elaboración de menús, tuve que sumergirme en el mundo tecnológico para crear mi propio sitio web y desarrollar algunas aplicaciones que me ayudaran en mi práctica diaria. Aunque al principio todo era muy rudimentario, esta experiencia fue lo que finalmente me impulsó a cambiar de profesión, ya que descubrí que realmente disfrutaba de la programación.
 
 Fue entonces cuando decidí hacer DAM, lo que me llevó a realizar prácticas en Accenture, donde trabajé con **Salesforce**. Por cierto me encantó! quedé impresionada por sus capacidades y este interés me llevó a seguir estudiando esta plataforma de manera independiente, lo que complementa mi formación en programación. Además, durante este tiempo, descubrí el campus de programación de **42 Madrid**, donde actualmente estudio **lenguaje C** con una metodología peer-to-peer.
 
