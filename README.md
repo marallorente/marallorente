@@ -2,7 +2,7 @@
 
 ### Junior developer 
 
-### :🐰 Bienvenidos a mi perfil!
+### 🐰 Bienvenidos a mi perfil!
 
 #### Acerca de mi:
 
