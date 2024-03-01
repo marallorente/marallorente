@@ -33,4 +33,4 @@ Fue entonces cuando decidí hacer DAM, lo que me llevó a realizar prácticas en
   [Piscina42](https://github.com/marallorente/piscina42) : Ejercicios realizados durante la piscina de noviembre de 2023
   
   # 🪐 42Cursus
-  [Libft](https://github.com/marallorente/libft) : comming soon ... ⏰ 
+  [Libft](https://github.com/marallorente/libft) : WIP... ⏰ 
